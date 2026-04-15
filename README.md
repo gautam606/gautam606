@@ -1,5 +1,5 @@
 # 💫 About Me:
-*Full Stack Developer specializing in the MERN stack, with strong adaptability to learn and work with new technologies quickly.<br> *Passionate about building scalable web applications .<br>*currently expanding backend expertise by learning Go (Golang).<br> *Known for problem-solving mindset and continuous learning.<br>I* sometimes spend more time choosing the perfect color palette than writing code — <br>because design matters!<br>
+*Full Stack Developer specializing in the MERN stack, with strong adaptability to learn and work with new technologies quickly.<br> *Passionate about building scalable web applications .<br>*.<br> *Known for problem-solving mindset and continuous learning.<br>I* sometimes spend more time choosing the perfect color palette than writing code — <br>because design matters!<br>
 
 
 ## 🌐 Socials:
