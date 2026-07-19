@@ -1,22 +1,26 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Aliens!+👋;+I'm+Gaurav+sk;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">Building modern web applications while exploring the world of full-stack development..</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+💻 Aspiring Software Developer
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+🌱 Currently learning Full Stack Development and DSA
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🛠️ Tech Stack: Java, JavaScript, React, Node.js, MongoDB, Git
+
+🚀 Building projects and improving my problem-solving skills
+
+🤝 Open to learning, collaborating, and contributing to open source
+
+⚡ Fun fact: I love turning ideas into code.
 
  </div>
  
