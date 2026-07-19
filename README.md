@@ -1,80 +1,218 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<!-- ===================================================== -->
+<!--                     HERO BANNER                        -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=1">
+    <img src="./assets/banner.svg?v=1" width="100%" alt="Banner">
+  </picture>
+</p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Aliens!+👋;+I'm+Gaurav+sk;" />
+  Hi 👋 I'm Gaurav SK
 </h1>
 
-<h3 align="center">Building modern web applications while exploring the world of full-stack development..</h3>
+<h3 align="center">
+💻 Full Stack Developer • Java Developer • AI Enthusiast
+</h3>
 
-<br/>
+<p align="center">
+Architecting the Full Stack. Integrating the Future of AI 🚀
+</p>
 
-<div align="center">
- 
-💻 Aspiring Software Developer
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=gautam606&style=for-the-badge&color=blueviolet"/>
+</p>
 
-🌱 Currently learning Full Stack Development and DSA
+---
 
-🛠️ Tech Stack: Java, JavaScript, React, Node.js, MongoDB, Git
+# 🚀 About Me
 
-🚀 Building projects and improving my problem-solving skills
+<img align="right" width="280" src="./assets/lanyard.svg?v=1"/>
 
-🤝 Open to learning, collaborating, and contributing to open source
+- 💻 Full Stack Developer
 
-⚡ Fun fact: I love turning ideas into code.
+- ☕ Java Backend Developer
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+- 🌱 Currently learning
+  - System Design
+  - DevOps
+  - AWS Cloud
+  - Kubernetes
+  - Microservices
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+- 🤖 Passionate about AI Integration
 
-<br/>
-<hr/>
+- 🧠 Solving DSA regularly
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+- 🚀 Building scalable Full Stack Applications
 
-<hr/>
+- 🤝 Open Source Enthusiast
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+- 🎯 Goal
+  - Software Engineer at a Product-Based Company
 
-<br/><br/>
+---
 
-<hr/>
+# ⚡ Tech Stack
 
-<br/>
+## 👨‍💻 Languages
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+<p>
 
-<br/>
+<img src="https://skillicons.dev/icons?i=java,c,js,ts"/>
+
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+</p>
+
+---
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+---
+
+## 🛢 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
+---
+
+## ☁ DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,nginx,vscode,postman"/>
+
+</p>
+
+---
+
+## 🎨 Design & Data Science
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+</p>
+
+- 📒 Jupyter Notebook
+- 📈 Matplotlib
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+|----------|------------|-------------|
+| 🌐 Cloud File Storage | Java • Spring Boot • AWS | Secure cloud storage platform |
+| 🛒 E-Commerce Website | React • Node • MongoDB | Full Stack shopping platform |
+| 🔗 URL Shortener | Java • Redis • MySQL | High-performance URL Shortener |
+| 🤖 AI Chat Assistant | React • Express • OpenAI | AI-powered chatbot |
+| ⚙ DevOps Microservices | Docker • Kubernetes • Nginx | CI/CD deployment pipeline |
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="./assets/stats.svg?v=1"/>
+
+<img width="48%" src="./assets/langs.svg?v=1"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="./assets/trophies.svg?v=1"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=gautam606&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gautam606&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/gautam606/gautam606/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:gauravsk615@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/gautam606">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> **"Architecting the Full Stack. Integrating the Future of AI."**
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ From <a href="https://github.com/gautam606">Gaurav SK</a>
+
+</p>
